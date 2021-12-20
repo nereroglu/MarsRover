@@ -1,0 +1,16 @@
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.exe
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.deps.json
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.runtimeconfig.json
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.runtimeconfig.dev.json
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.dll
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.ConsoleApp.pdb
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.Library.dll
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\bin\Debug\netcoreapp3.1\MarsRover.Library.pdb
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.csprojAssemblyReference.cache
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.AssemblyInfoInputs.cache
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.AssemblyInfo.cs
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.csproj.CopyComplete
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.dll
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.pdb
+C:\TestProjects\MarsRover\MarsRover.ConsoleApp\obj\Debug\netcoreapp3.1\MarsRover.ConsoleApp.genruntimeconfig.cache
