@@ -52,5 +52,5 @@ Run as Docker container :
 
 docker build -t marsrover:1.0 .
 
-docker run --rm -it --name marsrover marsrover:1.0 -c 'dotnet MarsRover.ConsoleApp.dll'
+docker run --rm -it --name marsrover marsrover:1.0
 
